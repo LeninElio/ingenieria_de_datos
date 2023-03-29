@@ -48,19 +48,19 @@
 ### Tipos de datos
 
 - Primitivos
-	- _int, str, bool, float, hex, oct, datetime, objetos especiales
+	- _int, str, bool, float, hex, oct, datetime, objetos especiales_
 - Estructurados
-	- _Bases de datos
-	- _Data warehouses
+	- _Bases de datos_
+	- _Data warehouses_
 - Semi estructurados
-	- _JSON APIs
-	- _Datos tabulares (csv, excel)
+	- _JSON APIs_
+	- _Datos tabulares (csv, excel)_
 - No estructurados
-	- _HTML
-	- _Texto libre
-	- _Curriculum vitaes
-	- _Imágenes, audio, social media
-	- _Datos científicos
+	- _HTML_
+	- _Texto libre_
+	- _Curriculum vitaes_
+	- _Imágenes, audio, social media_
+	- _Datos científicos_
 - Cualitativos vs cuantitativos
 - Tiempo real vs históricos
 
@@ -97,4 +97,6 @@
 
 ### Adquisición de datos
 
-![Adquisicion de datos](adquisicion_datos.png)
+![Adquisicion de datos](img/adquisicion_datos.png)
+
+## Machine learning [[machine_learning]]

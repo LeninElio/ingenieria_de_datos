@@ -1,6 +1,9 @@
 ### Obsidian ###
 # config dir
 .obsidian/
+venv/
+
+*.txt
 
 ### PyCharm+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
